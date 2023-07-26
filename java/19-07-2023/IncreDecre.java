@@ -5,7 +5,7 @@ class IncreDecre{
         int y = x++;
         y = ++x + x++;
         System.out.println("The value of x is : "+ x);
-        System.out.println("The value of y is :" + y);
+        System.out.println("The value of y- is :" + y);
         
     }
 }
